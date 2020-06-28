@@ -1,5 +1,5 @@
 ---
-image: /header.png
+image: /assets/images/header.png
 ---
 
 # Reichenberger Hof
