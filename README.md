@@ -1,6 +1,4 @@
----
-image: /assets/images/header.png
----
+
 
 # Reichenberger Hof
 lmfksjndfkljdsklfmdsnvsnflksdn ksdfjkslfksdnfkls  knsdfksndfklnf 
